@@ -1,7 +1,5 @@
 # Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais
 
-`Aqui deve-se colocar uma linha com a referência completa do artigo, exemplo:`
-
 CARRERA, Fernanda; CARVALHO, Denise. Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais. Galáxia, São Paulo, n. 43, 20 mar. 2020. 
 Disponível em: [10.1590/1982-25532020141614](https://doi.org/10.1590/1982-25532020141614). Acesso em: 3 mar. 2021.
 
@@ -24,4 +22,4 @@ O artigo busca trazer uma análise do racismo e, eventualmente, machismo encrust
 * "Se, segundo o autor, a família nuclear em geral é composta por homem, mulher, filho e filha, seria essa a composição familiar no contexto negro?"
 * "Foram escolhidos três dos principais bancos pagos de imagens digitais (Getty Images, Stock Photos e Shutterstock), uma vez que são importantes fontes de recursos imagéticos no campo publicitário, comercial, jornalístico e governamental."
 * "Importante destacar que a análise se baseou na presença ou ausência de homens no contexto visual da imagem, isto é, foram contabilizadas para a categoria de 'mulheres sozinhas' apenas aquelas imagens que não apresentam nenhum indivíduo do gênero masculino. Sendo assim, imagens com duas ou mais mulheres, assim como mulheres com filhos sem presença paterna ou cônjuge, foram consideradas 'mulheres sozinhas'."
-* "O algoritmo entende que a questão da raça foi inserida no interesse de pesquisa, porque a palavra “white” se contrapõe à “black” e, em geral, a pesquisa por “family” já traria predominantemente indivíduos brancos."
+* "O algoritmo entende que a questão da raça foi inserida no interesse de pesquisa, porque a palavra 'white' se contrapõe à 'black' e, em geral, a pesquisa por 'family' já traria predominantemente indivíduos brancos."
