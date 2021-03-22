@@ -17,8 +17,8 @@ Por fim, trago mais um questionamento relacionado diretamente a um dizer filosó
 Novamente, os questionamentos trazidos para o debate são:
 1. os ditos algoritmos racistas demandam explicação ou eles são autoexplicativos?
 2. o comodismo/conformidade ao se deparar com resultado de buscas por algumas pessoas demonstra que elas são uma extensão do algoritmo racista ou que elas se colocam numa posição de ‘ninguém fez nada, eu que não vou fazer’?
-3.	o avanço da tecnologia, do ser humano, das políticas, não demandam que a explicabilidade para esse tipo de situação, além de serem um recurso moral e ético obrigatório, sejam também tecnologicamente exigidos?
-4.	Rousseau já dizia que o ser humano é bom por natureza e a sociedade o corrompe. Seria o código do programador bom por natureza e o resultado corrompido pela sociedade? Ou seria o código corrompido por natureza?
+3. o avanço da tecnologia, do ser humano, das políticas, não demandam que a explicabilidade para esse tipo de situação, além de serem um recurso moral e ético obrigatório, sejam também tecnologicamente exigidos?
+4. Rousseau já dizia que o ser humano é bom por natureza e a sociedade o corrompe. Seria o código do programador bom por natureza e o resultado corrompido pela sociedade? Ou seria o código corrompido por natureza?
 
 
 Como conclusão, é possível dizer que qualquer tipo de resposta neste tipo de abordagem pode ser afetada pelo dito “paradoxo” tratado no segundo texto: as pessoas podem falar que agem de uma determinada forma, mas, na prática, estão agindo de outra. Neste momento, a explicabilidade pode ser item de luxo, opcional, mas, no futuro, provavelmente será obrigatória para os softwares, sistemas computacionais.
