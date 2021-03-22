@@ -24,5 +24,6 @@ Novamente, os questionamentos trazidos para o debate são:
 Como conclusão, é possível dizer que qualquer tipo de resposta neste tipo de abordagem pode ser afetada pelo dito “paradoxo” tratado no segundo texto: as pessoas podem falar que agem de uma determinada forma, mas, na prática, estão agindo de outra. Neste momento, a explicabilidade pode ser item de luxo, opcional, mas, no futuro, provavelmente será obrigatória para os softwares, sistemas computacionais.
 Não esqueçamos que o algoritmo/software é obra do ser humano, e o ser humano pode ser obra do perverso ou do bondoso.
 
+#
 
 _Interação Humano-Computador – Debate Estruturado I – Lucas Lemos Pinheiro_
