@@ -2,7 +2,6 @@
 
 _Esta composição textual é elaborada a partir de uma análise e relação entre dois artigos de pesquisa: “Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais”, de Fernanda Carrera e Denise Carvalho, e “Exploring User Profiles Based on their Explainability Requirements in Interactive Systems” ou “Explorando Perfis de Usuário Baseado em seus Requisitos de Explicabilidade em Sistemas Interativos”, de Henrique Louzada, Gabriel Chaves e Lesandro Ponciano. 
 O alicerce deste texto são questionamentos._
-
 #
 
 O primeiro texto trata de algoritmo racistas, a forma como sistemas computacionais, no caso da análise, banco de imagens, tratam a figura humana e retornam resultados de acordo com palavras-chave. O segundo texto trata da necessidade de explicabilidade pelos usuários dos sistemas de informação – como os dados recebidos são processados e geram determinada saída -, como isso impacta no cotidiano, nas decisões, e qual seu significado. 
