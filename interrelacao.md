@@ -1,6 +1,6 @@
 # A Inter-relação entre algoritmos racistas e a explicabilidade de sistemas interativos
 
-_Esta composição textual é elaborada a partir de uma análise e relação entre dois artigos de pesquisa: “Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais”, de Fernanda Carrera e Denise Carvalho, e “Exploring User Profiles Based on their Explainability Requirements in Interactive Systems” ou “Explorando Perfis de Usuário Baseado em seus Requisitos de Explicabilidade em Sistemas Interativos”, de Henrique Louzada, Gabriel Chaves e Lesandro Ponciano. 
+>_Esta composição textual é elaborada a partir de uma análise e relação entre dois artigos de pesquisa: “Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais”, de Fernanda Carrera e Denise Carvalho, e “Exploring User Profiles Based on their Explainability Requirements in Interactive Systems” ou “Explorando Perfis de Usuário Baseado em seus Requisitos de Explicabilidade em Sistemas Interativos”, de Henrique Louzada, Gabriel Chaves e Lesandro Ponciano. 
 O alicerce deste texto são questionamentos._
 #
 
@@ -26,4 +26,4 @@ Não esqueçamos que o algoritmo/software é obra do ser humano, e o ser humano 
 
 #
 
-_Interação Humano-Computador – Debate Estruturado I – Lucas Lemos Pinheiro_
+>_Interação Humano-Computador – Debate Estruturado I – Lucas Lemos Pinheiro_
